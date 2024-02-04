@@ -1,0 +1,20 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Felix Thiele"
+
+[params]
+  dateFormat = "Jan 2, 2006"
+  description = "Personal Website of Felix Thiele. Felix is a Senior Consultant at INNOQ and accumulated 10 years of experience in various roles within IT-consulting projects. Currently, his focus revolves around large IT architectures, organizational architecture, platforms, technology strategy and a lot of communication."
+
+[params.author]
+  name = "Felix Thiele"
+  image = "img/author.jpg"
+  headline = "Senior Consultant @ [INNOQ](https://www.innoq.com/en/)"
+  bio = "Felix is a Senior Consultant at [INNOQ](https://www.innoq.com/en/) and accumulated 10 years of experience in various roles within IT-consulting projects. Currently, his focus revolves around large IT architectures, organizational architecture, platforms, technology strategy and a lot of communication."
+  links = [
+   { github = "https://github.com/felixthiele" },
+   { linkedin = "https://linkedin.com/in/felixthiele" },
+  ]
