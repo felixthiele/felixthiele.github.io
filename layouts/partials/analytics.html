@@ -1,0 +1,5 @@
+{{ if hugo.IsProduction }}
+  {{ with site.Params.umamiAnalytics }}
+      <script defer src="https://cloud.umami.is/script.js" data-website-id="{{ .websiteId }}" data-domains="{{ .domains }}"></script>
+  {{ end }}
+{{ end }}

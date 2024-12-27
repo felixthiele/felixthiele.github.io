@@ -60,3 +60,7 @@ fingerprintAlgorithm = "sha256"
 
 [taxonomy]
   showTermCount = true
+
+[umamiAnalytics]
+  websiteId = "dfae1ea9-426c-4e6c-9a16-41016d8380b2"
+  domains = "felix-thiele.eu"
