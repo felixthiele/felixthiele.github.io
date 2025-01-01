@@ -12,10 +12,10 @@ title = "Felix Thiele"
 [params.author]
   name = "Felix Thiele"
   image = "img/author.jpg"
-  headline = "Senior Consultant @ [INNOQ](https://www.innoq.com)"
-  bio = "Felix ist Senior Consultant bei [INNOQ](https://www.innoq.com) und hat über 10 Jahren Erfahrung in diversen Rollen in IT-Consulting-Projekten gesammelt. Heute beschäftigt er sich hauptsächlich mit großen IT-Architekturen, Organisationsarchitektur, Plattformen, Technologiestrategie und ganz viel Kommunikation."
+  headline = "IT Consultant, Software Architekt und Team Lead"
+  bio = "Felix ist Senior Consultant bei [INNOQ](https://www.innoq.com) und hat über 10 Jahren Erfahrung in diversen Rollen in IT-Consulting-Projekten gesammelt. Heute unterstützt er Kunden im Bereich IT- und Organisationsarchitektur, Plattformen und Technologiestrategie."
   links = [
-   { github = "https://github.com/felixthiele" },
-   { linkedin = "https://linkedin.com/in/felixthiele" },
-   { bluesky = "https://bsky.app/profile/felixthiele.bsky.social"}
+    { bluesky = "https://bsky.app/profile/felixthiele.bsky.social"},
+    { linkedin = "https://linkedin.com/in/felixthiele" },
+    { github = "https://github.com/felixthiele" }
   ]

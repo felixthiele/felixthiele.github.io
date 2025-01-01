@@ -3,6 +3,12 @@ title: About me
 layout: simple
 ---
 
-During my computer science studies, I entered the field of IT consulting, accumulating 10 years of diverse experience in various roles within consulting projects. My expertise spans from Java and Javascript development, Requirements and Usability Engineering, to IT architecture and project management. I have predominantly served clients in the insurance and healthcare sectors.
+**Hello and welcome to my personal website! :wave:**
 
-Today, my focus at [INNOQ](https://www.innoq.com/en/) revolves around large IT architectures, organizational architecture, platforms, technology strategy and a lot of communication. I enjoy hands-on development in the Java & Javascript universe, deploying OCI containers in Kubernetes and OpenShift, and ensuring smooth automation.
+I'm Felix - IT Consultant, Software Architect and Team Lead from Cologne, Germany. 
+During my computer science studies at the Technical University of Munich, I entered the field of IT consulting and have since gained over 10 years of experience in various roles within consulting projects. 
+
+My expertise spans software development, mainly in Java and TypeScript, requirements and usability engineering, IT architecture, and project management. 
+I have primarily worked with clients in the insurance and healthcare sectors.
+
+Currently, I am a Senior Consultant at [INNOQ](https://www.innoq.com/en/), where I help clients with their IT architecture, organizational structures, platforms, and technology strategy.
